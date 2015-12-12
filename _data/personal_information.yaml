@@ -1,0 +1,16 @@
+name_surname:
+  "John Woo"
+gender:
+  "Male"
+address:
+  "Napoli, Italy"
+telephone:
+  "+39 123 456 789"
+email:
+  "mail@example.com"
+website:
+  "http://www.example.com"
+date_place_birth:
+  "31/12/1900 - Napoli, Italy"
+nationality:
+  "Italian"
