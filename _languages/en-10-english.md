@@ -1,9 +1,10 @@
 ---
 lang: "en"
 language: "English"
-understanding_listening: "C1 (Proficient user)"
-understanding_reading: "C2 (Proficient user)"
-spoken_interaction: "C1 (Proficient user)"
-spoken_production: "C2 (Proficient user)"
-writing_production: "C2 (Proficient user)"
+understanding_listening: "B2 (Advanced intermediate)"
+understanding_reading: "B2 (Advanced intermediate)"
+spoken_interaction: "B2 (Advanced intermediate)"
+spoken_production: "B2 (Advanced intermediate)"
+writing_production: "B2 (Advanced intermediate)"
 ---
+June 2010 - First Certificate English

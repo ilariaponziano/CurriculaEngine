@@ -1,16 +1,16 @@
 name_surname:
-  "John Woo"
+  "Ilaria Ponziano"
 gender:
-  "Male"
+  "Female"
 address:
-  "Napoli, Italy"
+  "Via Pesaro 26/a, 80126 Ancona, Italy"
 telephone:
-  "+39 123 456 789"
+  "+39 340 293 56 17"
 email:
-  "mail@example.com"
+  "ilaria.ponziano@gmail.com"
 website:
-  "http://www.example.com"
+  "http://ilariaponziano.github.com/Resume"
 date_place_birth:
-  "31/12/1900 - Napoli, Italy"
+  "07/05/1986, Ancona, Italy"
 nationality:
   "Italian"

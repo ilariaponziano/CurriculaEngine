@@ -1,9 +1,10 @@
 ---
 lang: "it"
 language: "Inglese"
-understanding_listening: "C1 (Utente avanzato)"
-understanding_reading: "C2 (Utente avanzato)"
-spoken_interaction: "C1 (Utente avanzato)"
-spoken_production: "C2 (Utente avanzato)"
-writing_production: "C2 (Utente avanzato)"
+understanding_listening: "B2 (Advanced intermediate)"
+understanding_reading: "B2 (Advanced intermediate)"
+spoken_interaction: "B2 (Advanced intermediate)"
+spoken_production: "B2 (Advanced intermediate)"
+writing_production: "B2 (Advanced intermediate)"
 ---
+June 2010 - First Certificate English

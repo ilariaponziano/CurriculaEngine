@@ -1,7 +1,8 @@
 ---
 lang: "it"
 title:
-  "Capacità artistiche"
+  "Competenze extra-professionali"
 description:
-  "Competenze artistiche? Non mi piacciono, non le uso (e non credo siano utili), ma se vuoi..."
+  "Partecipazione a corsi di teatro dal 2001 al 2012.
+  Partecipazione a corsi di scrittura creativa, che hanno portato anche alla pubblicazione di opere proprie su Amazon."
 ---
