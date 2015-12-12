@@ -1,5 +1,5 @@
 ---
-lang: "en"
+lang: "it"
 title: "Profilo"
 description: "Sono un ingegnere ambientale. Il mio interesse si è sempre rivolto all'ambiente, alla qualità e alla sicurezza per i lavoratori e per il contesto ambientale.
 Ho pianificato il mio piano di studi, e successivamente le mie scelte lavorative, con l’obiettivo di sviluppare la mia attitudine all’innovazione e le conoscenze al fine di perseguire i miei interessi e poter dunque svolgere al meglio un lavoro che mi permetta di mettere in pratica le mie conoscenze acquisite nell’ambito della sicurezza e dell’igiene del lavoro.
