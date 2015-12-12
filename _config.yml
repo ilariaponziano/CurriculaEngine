@@ -4,7 +4,7 @@ email: b1galez@gmail.com
 description: "Curricula Engine allows you to easy deploy your resume!"
 baseurl: "/Resume" # remove this for domain hosting
 #baseurl: "" # use this for third level domain hosting on GitHub Pages
-url: "http://periloso.github.io" # Enter here the URL of the resume (or the domain, in case you use the GitHub pages third-level domain
+url: "http://ilariaponziano.github.io" # Enter here the URL of the resume (or the domain, in case you use the GitHub pages third-level domain
 paginate: 2
 paginate_path: "/blog/page:num"
 
