@@ -7,7 +7,7 @@ address:
 telephone:
   "+39 340 293 56 17"
 email:
-  "ilaria.ponziano@gmail.com"
+  "twlctl.azyktlyz@symux.com" # this is encrypted in rot11 for the user, and rot 12 for the domain -> rot11@rot12.com
 website:
   "http://ilariaponziano.github.com/resume"
 date_place_birth:
